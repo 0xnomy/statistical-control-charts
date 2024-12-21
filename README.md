@@ -123,23 +123,7 @@ streamlit run app.py
 
 ---
 
-## Future Enhancements
-- Incorporating additional machine learning algorithms.
-- Adding time-series forecasting for dynamic process monitoring.
-- Enhancing visualizations for better interpretability.
-
----
-
-## License
-This project is licensed under the MIT License
-
----
-
 ## References
 - Montgomery, D. C. (2020). Introduction to Statistical Quality Control.
+- Zaman, B., Riaz, M., Abbas, N., & Does, R. J. M. M. (2015). Mixed cumulative sum–exponentially weighted moving average control charts: An efficient way of monitoring process location. Quality and Reliability Engineering International, 31(8), 1407–1421
 - Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning.
-
----
-
-## Contact
-For questions or suggestions, feel free to reach out via issues.
