@@ -66,29 +66,22 @@ This project uses **Streamlit** to create an interactive dashboard for visualizi
 ---
 
 ## Visuals
-1. **Scatter Plot Analysis**
-![Scatter Plot](visuals/scatter%20plot.png)
+### Grid View of Visualizations
+| Scatter Plot Analysis                               | Feature Importance - Random Forest                     |
+|----------------------------------------------------|--------------------------------------------------------|
+| ![Scatter Plot](visuals/scatter%20plot.png)        | ![Feature Importance](visuals/feature%20importance%20-%20random%20forest.png) |
 
-2. **Feature Importance - Random Forest**
-![Feature Importance](visuals/feature%20importance%20-%20random%20forest.png)
+| PCA - Principal Component Analysis                 | CUSUM Control Chart                                   |
+|----------------------------------------------------|--------------------------------------------------------|
+| ![PCA](visuals/pca.png)                            | ![CUSUM](visuals/cumsum.png)                          |
 
-3. **PCA - Principal Component Analysis**
-![PCA](visuals/pca.png)
+| Shewhart Control Chart                              | Ingredients vs. Strength                               |
+|----------------------------------------------------|--------------------------------------------------------|
+| ![Shewhart](visuals/shewhart.png)                  | ![Ingredients vs. Strength](visuals/ingredients%20vs.%20Strength.png) |
 
-4. **CUSUM Control Chart**
-![CUSUM](visuals/cumsum.png)
-
-5. **Shewhart Control Chart**
-![Shewhart](visuals/shewhart.png)
-
-6. **Ingredients vs. Strength**
-![Ingredients vs. Strength](visuals/ingredients%20vs.%20Strength.png)
-
-7. **Confusion Matrix**
-![Confusion Matrix](visuals/confusion%20matrix.png)
-
-8. **Distribution Analysis**
-![Distribution Analysis](visuals/distribution.png)
+| Confusion Matrix                                   | Distribution Analysis                                  |
+|----------------------------------------------------|--------------------------------------------------------|
+| ![Confusion Matrix](visuals/confusion%20matrix.png)| ![Distribution Analysis](visuals/distribution.png)    |
 
 ---
 
