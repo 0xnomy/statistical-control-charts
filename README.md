@@ -67,7 +67,7 @@ This project uses **Streamlit** to create an interactive dashboard for visualizi
 
 ## Visuals
 1. **Scatter Plot Analysis**
-![Scatter Plot](scatter%20plot.png)
+![Scatter Plot](visuals/scatter%20plot.png)
 
 2. **Feature Importance - Random Forest**
 ![Feature Importance](feature%20importance%20-%20random%20forest.png)
