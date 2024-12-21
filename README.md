@@ -1,4 +1,4 @@
-# Project Dashboard - Data Analysis Reports
+# Concrete Strength Monitoring Using Machine Learning and Statistical Control Charts
 
 ## Overview
 This project was part of the Advanced Linear Algebra course where we had to set up statistical control charts to monitor processes. It was taught by Dr. Babar Zaman, and this project represents my take on it.
