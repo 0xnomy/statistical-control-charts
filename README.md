@@ -23,7 +23,7 @@ This project was part of the Advanced Linear Algebra course where we had to set 
 
 ## Dataset
 
-The dataset used in this project is sourced from Kaggle and includes 1030 records with 8 distinct features:
+The dataset used in this project is sourced from Kaggle (https://www.kaggle.com/datasets/zain280/concrete-data/data) and includes 1030 records with 8 distinct features:
 - **Cement**
 - **Blast Furnace Slag**
 - **Fly Ash**
